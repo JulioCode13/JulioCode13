@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JulioCode13
 - 👀 I’m interested in  El desarrollo web
-- 🌱 I’m currently learning  html y css
+- 🌱 I’m currently learning  html, css and Js
 - 💞️ I’m looking to collaborate on  una empresa 
 - 📫 How to reach me ...
 instagram  @julio-elias13
